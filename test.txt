@@ -1,0 +1,1 @@
+Hello, this exercise is for merging conflicts, branching and how to manage them
